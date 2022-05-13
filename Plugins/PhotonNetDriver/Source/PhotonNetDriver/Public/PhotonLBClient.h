@@ -60,7 +60,7 @@ private:
 public:
 
 	const FString serverAddress = TEXT("ns.exitgames.com");	// Connect to Photon cloud master server
-	const FString AppID = TEXT("xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx");	// Set your Photon AppID here
+	const FString AppID = TEXT("1288ad49-8391-43c1-b52a-30fc7060f67c");	// Set your Photon AppID here
 	const FString appVersion = TEXT("1.0");
 
 	void BeginPlay();
